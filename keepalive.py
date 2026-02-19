@@ -9,6 +9,7 @@ SPACES = [
     "https://faruna01-igala-mbert-interpretability.hf.space",
     "https://faruna01-igala-gpt-from-scratch.hf.space",
     "https://faruna01-igala-streamlit-app-02.hf.space",
+    "https://huggingface.co/spaces/Faruna01/lsr-dashboard",
 ]
 
 def ping_space(url):
